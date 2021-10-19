@@ -1,0 +1,7 @@
+env/
+WLM.egg-info/
+wlm/__pycache__/
+wlm/linux/__pycache__/
+wlm/src/__pycache__/
+wlm/windows/__pycache__/
+
